@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text Values -->
+    <string name="app_name">Jarvis SMS Reader</string>
+    <string name="action_settings">Jarvis SMS Reader</string>
+    <string name="options">Options</string>
+    <string name="options_headphonoe">Only work when using headphones</string>
+    <string name="options_caller_speaker">Speak caller\'s name</string>
+    <string name="locale_instructions_text">Select your language</string>
+    <string name="demo_text">Do a test with the selected language</string>
+    <string name="demo_text_jarvis">Hello world! My name is Jarvis</string>
+    <string name="button">Speak!</string>
+    
+    <!-- Toasts -->
+    <string name="lang_not_supported">Language not supported!</string>
+    <string name="edit_text_empty">Write something!</string>
+    <string name="new_message">New message from</string>
+    <string name="new_call">New call from:</string>
+    
+    <!-- Shared Preferences -->
+    <string name="sharedPrefFileName">JarvisSharedPreferences</string>
+    <string name="sharedPrefHeadPhoneOption">onlyWorkWithHeadPhones</string>
+    <string name="sharedPrefSpeakCallersOption">speakCallerName</string>
+    <string name="sharedPrefLocalePosition">localePosition</string>
+    
+    <!-- Intent Extras Parameters -->
+	<string name="messageText">messageText</string>
+
+</resources>
